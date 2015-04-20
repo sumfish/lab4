@@ -42,8 +42,11 @@ QUESTION A
 QUESTION B                 
 
 1 8
+
 4 8
+
 4 8
+
 8 8
 
 指標裝的是記憶體位址，所以不論type是甚麼，sizeof出來都是8 bites
